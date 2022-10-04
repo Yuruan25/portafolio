@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey I'm Alex 👋🏻 glad to see you here!
+## Hey I'm Yuruan Suarez 👋🏻 glad to see you here!
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mogollonalex.mogollonalex&style=flat-square&color=0088cc)
@@ -25,7 +25,7 @@ This is a little repository to learn more about me ✅ &nbsp;
 
 - I'm from Mérida - Venezuela 🟡🔵🔴
 - I'm Economics and Lawyer 🤖
-- I'm Master of Science in Quantitative Economic.
+- I'm Tecnico Medio en Electronica.
 - I've been learnig about Data Science 🧪
 - I'm currently learning Python 🐍 and JavaScript 👀  
 
@@ -47,7 +47,7 @@ This is a little repository to learn more about me ✅ &nbsp;
 ### Conect with me 🤝🏻
 <p align="left">
     <a href="https://www.linkedin.com/in/wilmer-alexander-mogollon-brice%C3%B1o-772971118/" target="_blank"><img alt="LinkedIn" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
-    <a href="mailto:mogollonwilmer@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+    <a href="mailto:yuruan251089@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
      
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balechon&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balechon&layout=compact)](https://github.com/balechon/github-readme-stats) -->
